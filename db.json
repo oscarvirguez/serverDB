@@ -5,12 +5,5 @@
             "title": "El titulo",
             "description": "La descripcion",
             "link": "www.mercadolibre.com.co",
-            "engine": "Torch",
-            "fragments": ["primera", "segundob", "tercero"],
-            "wordCount": {
-                          "a": 2,
-                          "b": 4,
-                          "c": 7
-                        }
           }
 }
