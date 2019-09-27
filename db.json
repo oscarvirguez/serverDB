@@ -9,6 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "item": {
-    "name": "typicode"
+    "title": "El titulo",
+    "idRes": "123456"
   }
 }
