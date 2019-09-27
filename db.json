@@ -15,11 +15,11 @@
     "description": "La descripcion",
     "link": "www.mercadolibre.com.co",
     "engine": "Torch",
-    "fragments": ["primera", "segundob", "tercero"],
+    "fragments": ["El veloz murcielago", "volaba por el parque", "en una noche oscura y fria"],
     "wordCount": {
-                  "a": 2,
-                  "b": 4,
-                  "c": 7
+                  "veloz": 2,
+                  "el": 4,
+                  "noche": 7
                 }
   }
 }
