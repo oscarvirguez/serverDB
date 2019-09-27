@@ -10,6 +10,9 @@
   ],
   "item": {
     "title": "El titulo",
-    "idRes": "123456"
+    "idRes": "123456",
+    "title": "El titulo",
+    "description": "La descripcion",
+    "link": "www.mercadolibre.com.co"
   }
 }
