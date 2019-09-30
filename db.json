@@ -19,7 +19,11 @@
     "wordCount": {
                   "veloz": 2,
                   "el": 4,
-                  "noche": 7
+                  "noche": 7,
+                  "parque": 10,
+                  "luz": 2,
+                  "computador": 8,
+                  "Kiosko": 10
                 }
   }
 }
