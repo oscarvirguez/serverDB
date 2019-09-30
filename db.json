@@ -23,7 +23,9 @@
                   "parque": 10,
                   "luz": 2,
                   "computador": 8,
-                  "Kiosko": 10
+                  "Kiosko": 10,
+                  "Queso": 3,
+                  "Carne": 1
                 }
   }
 }
