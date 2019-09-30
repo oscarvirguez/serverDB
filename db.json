@@ -26,7 +26,7 @@
                   "Kiosko": 10,
                   "Queso": 3,
                   "Carne": 1
-                }
+                },
     "extras": {
                 "engine": "Torch",
                 "fecha": "12/05/2019",
