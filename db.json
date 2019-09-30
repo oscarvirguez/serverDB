@@ -14,7 +14,6 @@
     "title": "El titulo",
     "description": "La descripcion",
     "link": "www.mercadolibre.com.co",
-    "engine": "Torch",
     "fragments": ["El veloz murcielago", "volaba por el parque", "en una noche oscura y fria"],
     "wordCount": {
                   "veloz": 2,
@@ -23,9 +22,15 @@
                   "parque": 10,
                   "luz": 2,
                   "computador": 8,
+                  "esternocleidomastoideo": 100,
                   "Kiosko": 10,
                   "Queso": 3,
                   "Carne": 1
                 }
+    "extras": {
+                "engine": "Torch",
+                "fecha": "12/05/2019",
+                "Adjuntos": "Fotos"
+              }
   }
 }
